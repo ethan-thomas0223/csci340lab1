@@ -44,9 +44,11 @@ section.jumbotron.Cherries {
   text-align: center;
   display: flex;
   align-items: center;
-  background-image: url();
+  /*background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Flive.staticflickr.com%2F3097%2F2543171151_91c12e36c6_b.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fbensonkua%2F2543171151&tbnid=n6oue1foSoStvM&vet=12ahUKEwiM2vaZo97yAhVIR6wKHYiqC5sQMygAegUIARD8AQ..i&docid=2UVZdAsl-O5y-M&w=1024&h=683&q=cherries&hl=en&ved=2ahUKEwiM2vaZo97yAhVIR6wKHYiqC5sQMygAegUIARD8AQ');
+  */
+  background-image: url("cherries.jpg");
   background-size: cover;
-  color: #FFFFFF;
+  color: #ffffff
   height: 500px
   text-shadow: 0.25px 0.25px 0.25px #000000
 }
@@ -56,7 +58,7 @@ section.jumbotron.Town {
   align-items: center;
   background-image: url();
   background-size: cover;
-  color: #FFFFFF;
+  color: #ffffff;
   height: 500px
   text-shadow: 0.25px 0.25px 0.25px #000000
 }
@@ -66,7 +68,7 @@ section.jumbotron.Robin {
   align-items: center;
   background-image: url();
   background-size: cover;
-  color: #FFFFFF;
+  color: #ffffff;
   height: 500px
   text-shadow: 0.25px 0.25px 0.25px #000000
 }
