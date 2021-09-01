@@ -1,0 +1,26 @@
+h1 {
+    margin: 20px;
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+header {
+  padding: 20px;
+  margin: 20px;
+}
+
+section.jumbotron.Town {
+  display: flex;
+  align-items: center;
+  background-image: url();
+  background-size: cover;
+  color: #FFFFFF;
+  height: 500px
+  text-shadow: 0.25px 0.25px 0.25px #000000
+}
